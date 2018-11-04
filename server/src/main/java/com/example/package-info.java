@@ -1,5 +1,5 @@
 /**
-* This is a random comment
+* This is a random comment.
 */
 
 package com.example;
